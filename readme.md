@@ -7,7 +7,7 @@ Probando con:
  * Docker 18.09.9
 
 
-# Setear version  de kubernetes
+# Parar Alterar version  de kubernetes
 minikube start --memory 4000 --cpus 2 --kubernetes-version v1.11.10 
 
 
